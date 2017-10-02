@@ -3,7 +3,7 @@ This is a MEAN Stack Wireframe for CS50
 
 Use this if you want a quick jumpstart on creating a website from scratch.
 
-Installation Instructions:
+## Installation Instructions:
 1. Navigate to the folder you want this to be in
 2. run the command "git init"
 3. then run "git clone https://github.com/KevinKhieu/CS50WireframeApp.git"
@@ -13,6 +13,7 @@ This website uses MongoDB (via Mongoose), Express, Angular.JS, and Node.JS (for 
 
 Note: You will need to install MongoDB and Node to run this application. CS142 has good instructions on how to do this at http://web.stanford.edu/class/cs142/install.html
 
+## Running the App
 To run, navigate into this directory and:
 1. in Terminal, run "mongod"
 2. Open another Terminal window, navigate to this directory, and run "node webServer.js" - this starts the server at port 3000
@@ -22,7 +23,7 @@ To run, navigate into this directory and:
 To close:
 1. Type control + C in both Terminal windows running "mongod" and "node webServer.js"
 
-#Files of Interest:
+## Files of Interest:
 Client-Side (Browser/Front-End) Files:
 +++ index.html
 This is the HTML shell that holds everything in our app. When we navigate between pages, we are merely changing the HTML in this file (Ctrl+F for ng-view)

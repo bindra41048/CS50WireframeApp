@@ -3,7 +3,14 @@ This is a MEAN Stack Wireframe for CS50
 
 Use this if you want a quick jumpstart on creating a website from scratch.
 
+Installation Instructions:
+1. Navigate to the folder you want this to be in
+2. run the command "git init"
+3. then run "git clone https://github.com/KevinKhieu/CS50WireframeApp.git"
+4. Go into the project folder by typing "cd CS50WireframeApp" 
+
 This website uses MongoDB (via Mongoose), Express, Angular.JS, and Node.JS (for back end)
+
 Note: You will need to install MongoDB and Node to run this application. CS142 has good instructions on how to do this at http://web.stanford.edu/class/cs142/install.html
 
 To run, navigate into this directory and:

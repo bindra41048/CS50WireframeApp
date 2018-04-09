@@ -10,6 +10,7 @@
   "author": "CS50",
   "license": "ISC",
   "dependencies": {
+    "airtable": "^0.5.2",
     "angular": "^1.4.9",
     "angular-animate": "^1.4.9",
     "angular-aria": "^1.4.9",

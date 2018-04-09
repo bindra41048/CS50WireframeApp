@@ -6,22 +6,21 @@ Use this if you want a quick jumpstart on creating a website from scratch.
 ## Installation Instructions:
 1. Navigate to the folder you want this to be in
 2. run the command "git init"
-3. then run "git clone https://github.com/KevinKhieu/CS50WireframeApp.git"
-4. Go into the project folder by typing "cd CS50WireframeApp" 
+3. then run "git clone https://github.com/bindra41048/CS50WireframeApp.git"
+4. Go into the project folder by typing "cd CS50WireframeApp"
 
-This website uses MongoDB (via Mongoose), Express, Angular.JS, and Node.JS (for back end)
+This website uses Airtable DB, Express, Angular.JS, and Node.JS (for back end)
 
-Note: You will need to install MongoDB and Node to run this application. CS142 has good instructions on how to do this at http://web.stanford.edu/class/cs142/install.html
+Note: You will need to install Node to run this application. CS142 has good instructions on how to do this at http://web.stanford.edu/class/cs142/install.html
 
 ## Running the App
 To run, navigate into this directory and:
-1. in Terminal, run "mongod"
-2. Open another Terminal window, navigate to this directory, and run "node webServer.js" - this starts the server at port 3000
-3. Open your browser and navigate to localhost:3000, which is port 3000
-4. Explore the website.
+1. in Terminal, run "node webServer.js" - this starts the server at port 3000
+2. Open your browser and navigate to localhost:3000, which is port 3000
+3. Explore the website.
 
 To close:
-1. Type control + C in both Terminal windows running "mongod" and "node webServer.js"
+1. Type control + C in Terminal window running "node webServer.js"
 
 ## Files of Interest:
 Client-Side (Browser/Front-End) Files:
